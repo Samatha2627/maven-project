@@ -10,3 +10,4 @@ We added a prod branch.
 
 Autobuild trigger on 27th Feb 2021.
 Added this line to check maven project build from jenkins 10th Aug 2021
+Added this line to check maven project build from jenkins 12th Aug 2021
